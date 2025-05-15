@@ -6,7 +6,7 @@ I have downloaded wsl in my system and created username & password
 
 | Directory                 |              Description                                                     |
 |-------------------------  |-------------------------------------------------------------------           |
-| **/sbin -> /usr/sbin**  	| System binaries for **administrative** commands (linked to /usr/sbin).       |
+| **/sbin -> /usr/sbin**  	| System binaries for **administrative** commands (linked to /usr/sbin).  commands like usermod,useradd,userdel,chcpu etc     |
 | **/bin -> /usr/bin**      |	Essential user binaries (linked to /usr/bin).                                |
 | **/lib -> /usr/lib**	    | Shared libraries and kernel modules (linked to /usr/lib).                    |
  
