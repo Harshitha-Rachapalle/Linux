@@ -112,11 +112,13 @@ groupadd groupname
 ```
 
 **Adding Users to Groups**
-````
+
+```
 usermod -aG groupname username
 ```
 
 **Viewing Group Memberships**
+
 ```
 groups username
 ```
@@ -127,6 +129,7 @@ Sudo Access and Privilege Escalation
 **Adding a User to Sudo Group**
 
   On Debian-based systems
+  
 ```
 usermod -aG sudo username
 ```
@@ -140,7 +143,9 @@ usermod -aG wheel username
 
 ## Delete a user
 
+```
  groupdel groupname
+```
 
 
 
