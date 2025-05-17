@@ -138,7 +138,9 @@ usermod -aG wheel username
 ```
 
 
-## 
+## Delete a user
+
+ groupdel groupname
 
 
 
